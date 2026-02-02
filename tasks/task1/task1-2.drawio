@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="Page-1" id="B_HQJrQ1NssckOrXJYtj">
+    <mxGraphModel dx="866" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iom0MMQkIxEoTWjeN42v-16" edge="1" parent="1" source="iom0MMQkIxEoTWjeN42v-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iom0MMQkIxEoTWjeN42v-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="pymongo-api" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-14" connectable="0" parent="1" style="group;align=center;verticalAlign=top;" value="" vertex="1">
+          <mxGeometry height="380" width="120" x="60" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-12" parent="iom0MMQkIxEoTWjeN42v-14" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;font color=&quot;#121212&quot;&gt;&lt;span&gt;config&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="380" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-4" parent="iom0MMQkIxEoTWjeN42v-14" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;" value="&lt;div&gt;&lt;font color=&quot;#121212&quot;&gt;MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#121212&quot;&gt;configSrv&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="30" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-8" parent="iom0MMQkIxEoTWjeN42v-14" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;" value="&lt;div&gt;&lt;font color=&quot;#121212&quot;&gt;MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#121212&quot;&gt;configSrv&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="30" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-10" parent="iom0MMQkIxEoTWjeN42v-14" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;" value="&lt;div&gt;&lt;font color=&quot;#121212&quot;&gt;MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#121212&quot;&gt;configSrv&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="30" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-15" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="380" width="120" x="230" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-13" parent="iom0MMQkIxEoTWjeN42v-15" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="router" vertex="1">
+          <mxGeometry height="380" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-5" parent="iom0MMQkIxEoTWjeN42v-15" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;&lt;font&gt;MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;router&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="30" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-9" parent="iom0MMQkIxEoTWjeN42v-15" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;&lt;font&gt;MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;router&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="30" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-11" parent="iom0MMQkIxEoTWjeN42v-15" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;&lt;font&gt;MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;router&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="30" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-17" edge="1" parent="1" source="iom0MMQkIxEoTWjeN42v-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="iom0MMQkIxEoTWjeN42v-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-19" edge="1" parent="1" source="iom0MMQkIxEoTWjeN42v-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iom0MMQkIxEoTWjeN42v-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-20" connectable="0" parent="iom0MMQkIxEoTWjeN42v-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="_id: &quot;hashed&quot;" vertex="1">
+          <mxGeometry relative="1" x="-0.8214" y="4" as="geometry">
+            <mxPoint x="75" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-27" edge="1" parent="1" source="iom0MMQkIxEoTWjeN42v-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iom0MMQkIxEoTWjeN42v-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-31" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="120" width="380" x="480" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-23" parent="iom0MMQkIxEoTWjeN42v-31" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;rotation=-90;" value="shard1" vertex="1">
+          <mxGeometry height="380" width="120" x="130" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-28" parent="iom0MMQkIxEoTWjeN42v-31" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;&lt;font&gt;MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;shard1-1&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-29" parent="iom0MMQkIxEoTWjeN42v-31" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;&lt;font&gt;MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;shard1-2&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-30" parent="iom0MMQkIxEoTWjeN42v-31" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;&lt;font&gt;MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;shard1-3&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="300" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-32" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="120" width="380" x="480" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-33" parent="iom0MMQkIxEoTWjeN42v-32" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;rotation=-90;" value="shard2" vertex="1">
+          <mxGeometry height="380" width="120" x="130" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-34" parent="iom0MMQkIxEoTWjeN42v-32" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;&lt;font&gt;MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;shard2-1&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-35" parent="iom0MMQkIxEoTWjeN42v-32" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;&lt;font&gt;MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;shard2-2&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iom0MMQkIxEoTWjeN42v-36" parent="iom0MMQkIxEoTWjeN42v-32" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;div&gt;&lt;font&gt;MongoDB&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;shard2-3&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="60" x="300" y="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
