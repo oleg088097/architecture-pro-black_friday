@@ -2,16 +2,11 @@
 
 ## Как запустить
 
-Запускаем mongodb и приложение
+Запускаем mongodb, приложение, инициализируем кластер, заполняем данными
 
 ```shell
-docker compose up -d
-```
-
-Заполняем mongodb данными
-
-```shell
-./scripts/mongo-init.sh
+cd sharding-repl-cache
+./run.sh
 ```
 
 ## Как проверить
