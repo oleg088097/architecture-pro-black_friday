@@ -12,7 +12,7 @@
     "user_id": String, 
     "order_date": Date, 
     "items" : [{
-        "item_id": ObjectId,
+        "product_id": ObjectId,
         "price": Integer
     }], 
     "status": String, 
